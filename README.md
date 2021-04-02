@@ -1,6 +1,8 @@
 # Mono-Alphabetic-Decrypter
 This code is able to take in ciphertext made by a mono-alphabetic substitution cipher and prints out the key for the cipher. This README file is also the report PDF in the repository.
 
+Please fell free to learn from this code but DO NOT copy the code completely. Doing so may be considered plagerism.
+
 # 1. Introduction to Code: 
 Hello! Thank you for reading this document for my code. This project decrypts a mono-alphabetic 
 ciphertext and returns the best key for the cipher it can gather. In this document, I will be explaining my 
